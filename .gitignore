@@ -1,0 +1,15 @@
+/book/
+/ppt/
+
+!/Lab/
+/Lab/*
+!/Lab/Practicals/
+
+*.png
+*.jpg
+*.exe
+*.o
+*.pdf
+*.docx
+
+
